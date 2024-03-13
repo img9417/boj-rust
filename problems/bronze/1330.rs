@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/1330
+
 use std::io;
 use std::cmp::Ordering;
 

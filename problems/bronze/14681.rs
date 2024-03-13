@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/14681
+
 use std::io;
 
 fn read_int() -> i32 {

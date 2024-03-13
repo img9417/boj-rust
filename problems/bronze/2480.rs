@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/2480
+
 use std::io;
 
 fn main() {

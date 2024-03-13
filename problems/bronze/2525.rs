@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/2525
+
 use std::io;
 
 fn read_time() -> (i32, i32) {
