@@ -22,6 +22,8 @@
 - [10926: ??!](https://www.acmicpc.net/problem/10926) (Bronze 5)
 - [10998: A*B](https://www.acmicpc.net/problem/10998) (Bronze 5)
 - [11382: 꼬마 정민](https://www.acmicpc.net/problem/11382) (Bronze 5)
+- [15680: 연세대학교](https://www.acmicpc.net/problem/15680) (Bronze 5)
+- [15963: CASIO](https://www.acmicpc.net/problem/15963) (Bronze 5)
 - [18108: 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) (Bronze 5)
 
 ### Control Flow <a id="flow"></a>
