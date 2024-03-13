@@ -22,6 +22,7 @@
 - [10926: ??!](https://www.acmicpc.net/problem/10926) (Bronze 5)
 - [10998: A*B](https://www.acmicpc.net/problem/10998) (Bronze 5)
 - [11382: 꼬마 정민](https://www.acmicpc.net/problem/11382) (Bronze 5)
+- [15000: CAPS](https://www.acmicpc.net/problem/15000) (Bronze 5)
 - [15680: 연세대학교](https://www.acmicpc.net/problem/15680) (Bronze 5)
 - [15963: CASIO](https://www.acmicpc.net/problem/15963) (Bronze 5)
 - [18108: 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) (Bronze 5)
@@ -36,6 +37,10 @@
 - [9498: 시험 성적](https://www.acmicpc.net/problem/9498) (Bronze 5)
 - [10817: 세 수](https://www.acmicpc.net/problem/10817) (Bronze 3)
 - [14681: Quadrant Selection](https://www.acmicpc.net/problem/14681) (Bronze 5)
+- [24883: 자동완성](https://www.acmicpc.net/problem/24883) (Bronze 5)
+- [27294: 몇개고?](https://www.acmicpc.net/problem/27294) (Bronze 5)
+- [27889: 특별한 학교 이름](https://www.acmicpc.net/problem/27889) (Bronze 5)
 
 ### Loop
 - [2440: 별 찍기 - 3](https://www.acmicpc.net/problem/2440) (Bronze 4)
+- [21598: SciComLove](https://www.acmicpc.net/problem/21598) (Bronze 5)
