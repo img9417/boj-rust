@@ -2,8 +2,9 @@
 
 - [Basic](#basic)
   + [Input/Output](#io)
-  + [Control Flow](#flow)
-  + [Loop](#loop)
+  + [Conditions (if)](#condition)
+  + [Control Flow: Loop](#loop)
+  + [Strings](#strings)
 
 ---
 
@@ -27,7 +28,7 @@
 - [15963: CASIO](https://www.acmicpc.net/problem/15963) (Bronze 5)
 - [18108: 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) (Bronze 5)
 
-### Control Flow <a id="flow"></a>
+### Conditions <a id="condition"></a>
 - [1110: 더하기 사이클](https://www.acmicpc.net/problem/1110) (Bronze 1)
 - [1330: 두 수 비교하기](https://www.acmicpc.net/problem/1330) (Bronze 5)
 - [2480: 주사위 세개](https://www.acmicpc.net/problem/2480) (Bronze 4)
@@ -43,4 +44,10 @@
 
 ### Loop
 - [2440: 별 찍기 - 3](https://www.acmicpc.net/problem/2440) (Bronze 4)
+- [2441: 별 찍기 - 4](https://www.acmicpc.net/problem/2441) (Bronze 3)
+- [2442: 별 찍기 - 5](https://www.acmicpc.net/problem/2442) (Bronze 3)
+- [10870: 피보나치 수 5](https://www.acmicpc.net/problem/2440) (Bronze 2)
 - [21598: SciComLove](https://www.acmicpc.net/problem/21598) (Bronze 5)
+
+### Strings
+- [1032: 명령 프롬프트](https://www.acmicpc.net/problem/1032) (Bronze 1)
