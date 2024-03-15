@@ -1,27 +1,24 @@
-# Rust - Baekjoon
+# Baekjoon - Rust 
 
+## Table of Contents
 - [Basic](#basic)
   + [Input/Output](#io)
   + [Conditions (if)](#condition)
   + [Control Flow: Loop](#loop)
   + [Strings](#strings)
+  + [Math](#math)
+- [Algorithm](#algorithm)
+  + [Bruteforce](#bruteforce)
 
 ---
 
 ## Basic
 ### IO
-- [1000: A+B](./problems/bronze/1000.rs) (Bronze 5)
-- [1001: A-B](./problems/bronze/1001.rs) (Bronze 5)
-- [1008: A/B](./problems/bronze/1008.rs) (Bronze 5)
 - [2555: 생일 출력하기](./problems/bronze/2555.rs) (Unknown)
 - [2557: Hello World](./problems/bronze/2557.rs) (Bronze 5)
-- [2588: 곱셈](./problems/bronze/2588.rs) (Bronze 3)
 - [10171: Cats](./problems/bronze/10171.rs) (Bronze 5)
 - [10172: Dogs](./problems/bronze/10172.rs) (Bronze 5)
-- [10430: 나머지](./problems/bronze/10430.rs) (Bronze 5)
-- [10869: 사칙연산](./problems/bronze/10869.rs) (Bronze 5)
 - [10926: ??!](./problems/bronze/10926.rs) (Bronze 5)
-- [10998: A*B](./problems/bronze/10998.rs) (Bronze 5)
 - [11382: 꼬마 정민](./problems/bronze/11382.rs) (Bronze 5)
 - [15000: CAPS](./problems/bronze/15000.rs) (Bronze 5)
 - [15680: 연세대학교](./problems/bronze/15680.rs) (Bronze 5)
@@ -51,3 +48,31 @@
 
 ### Strings
 - [1032: 명령 프롬프트](./problems/bronze/1032.rs) | [method2](./problems/bronze/1032-2.rs) (Bronze 1)
+- [1152: 단어의 개수](./problems/bronze/1152.rs) (Bronze 2)
+- [2675: Repeating Characters](./problems/bronze/2675.rs) (Bronze 2)
+- [2743: 단어 길이 재기](./problems/bronze/2743.rs) (Bronze 5)
+- [9086: 문자열](./problems/bronze/9086.rs) (Bronze 5)
+- [10809: 알파벳 찾기](./problems/bronze/10809.rs) | [method2](./problems/bronze/10809-2.rs) (Bronze 2)
+- [11720: 숫자의 합](./problems/bronze/11720.rs) (Bronze 4)
+- [27866: 문자와 문자열](./problems/bronze/27866.rs) (Bronze 5)
+
+### Math
+- [1000: A+B](./problems/bronze/1000.rs) (Bronze 5)
+- [1001: A-B](./problems/bronze/1001.rs) (Bronze 5)
+- [1008: A/B](./problems/bronze/1008.rs) (Bronze 5)
+- [2588: 곱셈](./problems/bronze/2588.rs) (Bronze 3)
+- [9063: 대지](./problems/bronze/9063.rs) (Bronze 3)
+- [10101: Trinagle Times](./problems/bronze/10101.rs) (Bronze 4)
+- [10430: 나머지](./problems/bronze/10430.rs) (Bronze 5)
+- [10869: 사칙연산](./problems/bronze/10869.rs) (Bronze 5)
+- [10998: A*B](./problems/bronze/10998.rs) (Bronze 5)
+- [15894: 수학은 체육과목 입니다](./problems/bronze/15894.rs) (Bronze 3)
+
+## Algorithm
+
+### Bruteforce
+- [1018: 체스판 다시 칠하기](./problems/silver/1018.rs) (Silver 4)
+- [1436: 영화감독 숌](./problems/silver/1436.rs) (Silver 5)
+- [2231: 분해합](./problems/bronze/2231.rs) (Bronze 2)
+- [2789: JACK](./problems/bronze/2798.rs) (Bronze 2)
+- [19532: 수학은 비대면강의입니다](./problems/bronze/19532.rs) (Bronze 2)
