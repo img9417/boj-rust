@@ -76,3 +76,12 @@
 - [2231: 분해합](./problems/bronze/2231.rs) (Bronze 2)
 - [2789: JACK](./problems/bronze/2798.rs) (Bronze 2)
 - [19532: 수학은 비대면강의입니다](./problems/bronze/19532.rs) (Bronze 2)
+
+### DP
+- [2839: ŠEĆER](./problems/silver/2839.rs) (Silver 4)
+
+### Greedy
+- [5585: おつり](./problems/bronze/5585.rs) (Bronze 2)
+
+### Prefix Sum
+- [11659: 구간 합 구하기 4](./problems/Silver/11659.rs) (Silver 3)
