@@ -77,6 +77,9 @@
 - [2789: JACK](./problems/bronze/2798.rs) (Bronze 2)
 - [19532: 수학은 비대면강의입니다](./problems/bronze/19532.rs) (Bronze 2)
 
+### Coordinate Compression
+- [18870: 좌표 압축](./problems/silver/18870.rs) (Silver 2)
+
 ### DP
 - [2839: ŠEĆER](./problems/silver/2839.rs) (Silver 4)
 
@@ -84,4 +87,16 @@
 - [5585: おつり](./problems/bronze/5585.rs) (Bronze 2)
 
 ### Prefix Sum
-- [11659: 구간 합 구하기 4](./problems/Silver/11659.rs) (Silver 3)
+- [11659: 구간 합 구하기 4](./problems/silver/11659.rs) (Silver 3)
+
+### Sort
+- [1427: 소트인사이드](./problems/silver/1427.rs) (Silver 5)
+- [2750: 수 정렬하기](./problems/bronze/2750.rs) (Bronze 2)
+- [2751: 수 정렬하기 2](./problems/silver/2751.rs) (Silver 5)
+- [2587: 대표값2](./problems/bronze/2587.rs) (Bronze 2)
+- [10841: 나이순 정렬](./problems/silver/10841.rs) (Silver 5)
+- [10989: 수 정렬하기 3](./problems/bronze/10989.rs) (Bronze 1)
+- [11650: 좌표 정렬하기](./problems/silver/11650.rs) (Silver 5)
+- [11651: 좌표 정렬하기 2](./problems/silver/11651.rs) (Silver 5)
+- [25305: 커트라인](./problems/bronze/25305.rs) (Bronze 2)
+
