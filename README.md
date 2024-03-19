@@ -89,6 +89,12 @@
 ### Prefix Sum
 - [11659: 구간 합 구하기 4](./problems/silver/11659.rs) (Silver 3)
 
+### Set and Map
+- [1620: 나는야 포켓몬 마스터 이다솜](./problems/silver/1620.rs) | [method 2](./problems/silver/1620-2.rs) (Silver 4)
+- [7785: Easy work](./problems/silver/7785.rs) (Silver 5)
+- [10815: 숫자 카드](./problems/silver/10815.rs) (Silver 5)
+- [14425: 문자열 집합](./problems/silver/14425.rs) (Silver 4)
+
 ### Sort
 - [1427: 소트인사이드](./problems/silver/1427.rs) (Silver 5)
 - [2750: 수 정렬하기](./problems/bronze/2750.rs) (Bronze 2)
