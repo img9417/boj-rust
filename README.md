@@ -93,6 +93,7 @@
 - [1620: 나는야 포켓몬 마스터 이다솜](./problems/silver/1620.rs) | [method 2](./problems/silver/1620-2.rs) (Silver 4)
 - [7785: Easy work](./problems/silver/7785.rs) (Silver 5)
 - [10815: 숫자 카드](./problems/silver/10815.rs) (Silver 5)
+- [10816: 숫자 카드 2](./problems/silver/10816.rs) (Silver 4)
 - [14425: 문자열 집합](./problems/silver/14425.rs) (Silver 4)
 
 ### Sort
