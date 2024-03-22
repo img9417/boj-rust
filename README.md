@@ -90,11 +90,13 @@
 - [11659: 구간 합 구하기 4](./problems/silver/11659.rs) (Silver 3)
 
 ### Set and Map
+- [1269: 대칭 차집합](./problems/silver/1269.rs) (Silver 4)
 - [1620: 나는야 포켓몬 마스터 이다솜](./problems/silver/1620.rs) | [method 2](./problems/silver/1620-2.rs) (Silver 4)
 - [1764: 듣보잡](./problems/silver/1764.rs) (Silver 4)
 - [7785: Easy work](./problems/silver/7785.rs) (Silver 5)
 - [10815: 숫자 카드](./problems/silver/10815.rs) (Silver 5)
 - [10816: 숫자 카드 2](./problems/silver/10816.rs) (Silver 4)
+- [11478: 서로 다른 부분 문자열의 개수](./problems/silver/11478.rs) (Silver 3)
 - [14425: 문자열 집합](./problems/silver/14425.rs) (Silver 4)
 
 ### Sort
