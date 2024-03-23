@@ -60,12 +60,14 @@
 - [1000: A+B](./problems/bronze/1000.rs) (Bronze 5)
 - [1001: A-B](./problems/bronze/1001.rs) (Bronze 5)
 - [1008: A/B](./problems/bronze/1008.rs) (Bronze 5)
+- [1934: 최소공배수](./problems/bronze/1934.rs) (Bronze 4)
 - [2588: 곱셈](./problems/bronze/2588.rs) (Bronze 3)
 - [9063: 대지](./problems/bronze/9063.rs) (Bronze 3)
 - [10101: Trinagle Times](./problems/bronze/10101.rs) (Bronze 4)
 - [10430: 나머지](./problems/bronze/10430.rs) (Bronze 5)
 - [10869: 사칙연산](./problems/bronze/10869.rs) (Bronze 5)
-- [10998: A*B](./problems/bronze/10998.rs) (Bronze 5)
+- [10998: A x B](./problems/bronze/10998.rs) (Bronze 5)
+- [13241: LCM](./problems/silver/13241.rs) (Silver 5)
 - [15894: 수학은 체육과목 입니다](./problems/bronze/15894.rs) (Bronze 3)
 
 ## Algorithm
