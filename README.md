@@ -60,6 +60,7 @@
 - [1000: A+B](./problems/bronze/1000.rs) (Bronze 5)
 - [1001: A-B](./problems/bronze/1001.rs) (Bronze 5)
 - [1008: A/B](./problems/bronze/1008.rs) (Bronze 5)
+- [1735: 분수 합](./problems/silver/1735.rs) (Silver 3)
 - [1934: 최소공배수](./problems/bronze/1934.rs) (Bronze 4)
 - [2588: 곱셈](./problems/bronze/2588.rs) (Bronze 3)
 - [9063: 대지](./problems/bronze/9063.rs) (Bronze 3)
