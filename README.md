@@ -9,6 +9,13 @@
   + [Math](#math)
 - [Algorithm](#algorithm)
   + [Bruteforce](#bruteforce)
+  + [Coordinate Compression](#coordinate)
+  + [Dynamic Programming](#dp)
+  + [Greedy](#greedy)
+  + [Prefix Sum](#prefix_sum)
+  + [Set and Map](#set_and_map)
+  + [Stack](#stack)
+  + [Sort](#sort)
 
 ---
 
@@ -25,7 +32,7 @@
 - [15963: CASIO](./problems/bronze/15963.rs) (Bronze 5)
 - [18108: 1998년생인 내가 태국에서는 2541년생?!](./problems/bronze/18108.rs) (Bronze 5)
 
-### Conditions <a id="condition"></a>
+### Conditions (if) <a id="condition"></a>
 - [1110: 더하기 사이클](./problems/bronze/1110.rs) (Bronze 1)
 - [1330: 두 수 비교하기](./problems/bronze/1330.rs) (Bronze 5)
 - [2480: 주사위 세개](./problems/bronze/2480.rs) (Bronze 4)
@@ -39,7 +46,7 @@
 - [27294: 몇개고?](./problems/bronze/27294.rs) (Bronze 5)
 - [27889: 특별한 학교 이름](./problems/bronze/27889.rs) (Bronze 5)
 
-### Loop
+### Control Flow: Loop <a id="loop"></a>
 - [2440: 별 찍기 - 3](./problems/bronze/2440.rs) (Bronze 4)
 - [2441: 별 찍기 - 4](./problems/bronze/2441.rs) (Bronze 3)
 - [2442: 별 찍기 - 5](./problems/bronze/2442.rs) (Bronze 3)
@@ -82,7 +89,7 @@
 - [2789: JACK](./problems/bronze/2798.rs) (Bronze 2)
 - [19532: 수학은 비대면강의입니다](./problems/bronze/19532.rs) (Bronze 2)
 
-### Coordinate Compression
+### Coordinate Compression <a id="coordinate"></a>
 - [18870: 좌표 압축](./problems/silver/18870.rs) (Silver 2)
 
 ### DP
@@ -91,10 +98,10 @@
 ### Greedy
 - [5585: おつり](./problems/bronze/5585.rs) (Bronze 2)
 
-### Prefix Sum
+### Prefix Sum <a id="prefix_sum"></a>
 - [11659: 구간 합 구하기 4](./problems/silver/11659.rs) (Silver 3)
 
-### Set and Map
+### Set and Map <a id="set_and_map"></a>
 - [1269: 대칭 차집합](./problems/silver/1269.rs) (Silver 4)
 - [1620: 나는야 포켓몬 마스터 이다솜](./problems/silver/1620.rs) | [method 2](./problems/silver/1620-2.rs) (Silver 4)
 - [1764: 듣보잡](./problems/silver/1764.rs) (Silver 4)
@@ -115,3 +122,5 @@
 - [11651: 좌표 정렬하기 2](./problems/silver/11651.rs) (Silver 5)
 - [25305: 커트라인](./problems/bronze/25305.rs) (Bronze 2)
 
+### Stack
+- [28278: 스택 2](./problems/silver/28278.rs) (Silver 4)
