@@ -123,4 +123,6 @@
 - [25305: 커트라인](./problems/bronze/25305.rs) (Bronze 2)
 
 ### Stack
+- [4949: The Balance of the World](./problems/silver/4949.rs) (Silver 4)
 - [28278: 스택 2](./problems/silver/28278.rs) (Silver 4)
+- [12789: 도키도키 간식드리미](./problems/silver/12789.rs) (Silver 3)
