@@ -129,4 +129,6 @@
 - [12789: 도키도키 간식드리미](./problems/silver/12789.rs) (Silver 3)
 
 ### Queue
+- [2164: 카드 2](./problems/silver/2164.rs) (Silver 4)
+- [11866: 요세푸스 문제 0](./problems/silver/11866.rs) (Silver 5)
 - [18258: 큐 2](./problems/silver/18258.rs) (Silver 4)
