@@ -98,6 +98,7 @@
 
 ### Greedy
 - [5585: おつり](./problems/bronze/5585.rs) (Bronze 2)
+- [11047: 동전 0](./problems/silver/11047.rs) (Silver 4)
 
 ### Prefix Sum <a id="prefix_sum"></a>
 - [11659: 구간 합 구하기 4](./problems/silver/11659.rs) (Silver 3)
@@ -132,3 +133,4 @@
 - [2164: 카드 2](./problems/silver/2164.rs) (Silver 4)
 - [11866: 요세푸스 문제 0](./problems/silver/11866.rs) (Silver 5)
 - [18258: 큐 2](./problems/silver/18258.rs) (Silver 4)
+- [28279: 덱 2](./problems/silver/28279.rs) (Silver 4)
