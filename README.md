@@ -133,6 +133,7 @@
 ### Queue
 - [2164: 카드 2](./problems/silver/2164.rs) (Silver 4)
 - [10845: 큐](./problems/silver/10845.rs) (Silver 4)
+- [1158: 요세푸스 문제](./problems/silver/1158.rs) (Silver 4)
 - [11866: 요세푸스 문제 0](./problems/silver/11866.rs) (Silver 5)
 - [18258: 큐 2](./problems/silver/18258.rs) (Silver 4)
 - [28279: 덱 2](./problems/silver/28279.rs) (Silver 4)
