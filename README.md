@@ -60,6 +60,7 @@
 - [2675: Repeating Characters](./problems/bronze/2675.rs) (Bronze 2)
 - [2743: 단어 길이 재기](./problems/bronze/2743.rs) (Bronze 5)
 - [9086: 문자열](./problems/bronze/9086.rs) (Bronze 5)
+- [9093: Word Reversal](./problems/bronze/9093.rs) (Bronze 1)
 - [10809: 알파벳 찾기](./problems/bronze/10809.rs) | [method2](./problems/bronze/10809-2.rs) (Bronze 2)
 - [11720: 숫자의 합](./problems/bronze/11720.rs) (Bronze 4)
 - [27866: 문자와 문자열](./problems/bronze/27866.rs) (Bronze 5)
@@ -131,6 +132,7 @@
 
 ### Queue
 - [2164: 카드 2](./problems/silver/2164.rs) (Silver 4)
+- [10845: 큐](./problems/silver/10845.rs) (Silver 4)
 - [11866: 요세푸스 문제 0](./problems/silver/11866.rs) (Silver 5)
 - [18258: 큐 2](./problems/silver/18258.rs) (Silver 4)
 - [28279: 덱 2](./problems/silver/28279.rs) (Silver 4)
