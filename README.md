@@ -17,6 +17,7 @@
   + [Stack](#stack)
   + [Sort](#sort)
   + [Queue](#queue)
+  + [Deque](#deque)
 
 ---
 
@@ -136,4 +137,7 @@
 - [1158: 요세푸스 문제](./problems/silver/1158.rs) (Silver 4)
 - [11866: 요세푸스 문제 0](./problems/silver/11866.rs) (Silver 5)
 - [18258: 큐 2](./problems/silver/18258.rs) (Silver 4)
+
+### Deque
+- [10866: 덱](./problems/silver/10866.rs) (Silver 4)
 - [28279: 덱 2](./problems/silver/28279.rs) (Silver 4)
